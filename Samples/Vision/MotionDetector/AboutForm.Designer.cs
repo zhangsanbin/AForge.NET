@@ -100,7 +100,7 @@ namespace MotionDetectorSample
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size( 192, 13 );
             this.label3.TabIndex = 4;
-            this.label3.Text = "Copyright © 2005-2009, Andrew Kirillov";
+            this.label3.Text = "Copyright ?2005-2009, Andrew Kirillov";
             // 
             // aforgeLabel
             // 
